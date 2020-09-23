@@ -1,2 +1,2 @@
 # Dart
-Dart 체험입니다.
+Flutter web을 활용하기 위한 Dart 체험
